@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.nithish.fests",
                "sha256_cert_fingerprints": [
-                 "43:C0:A6:BC:B5:E8:EA:CA:1F:81:A3:3C:A3:3E:34:C9:2D:1F:E5:19:62:FB:BE:2F:85:92:86:3C:67:BA:67:57",
+                 "AC:17:AE:07:99:64:7C:FD:4D:58:A6:AA:34:62:DC:08:04:43:C4:3F:14:4C:1C:3E:9B:57:B9:42:E3:D1:A0:30",
                  "D3:DB:0A:B1:F0:03:FF:6D:61:AD:EB:0F:6E:CD:87:71:23:51:9E:7C:7D:03:5A:23:3C:4E:97:78:BA:6D:74:19"
                ] 
   }
